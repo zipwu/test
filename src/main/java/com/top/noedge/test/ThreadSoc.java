@@ -9,6 +9,7 @@ public class ThreadSoc {
 	        System.out.println(i+i);
 	        System.out.println(i*i);
 	        System.out.println(i+1);
+	        System.out.println(i-1);
 	    }
 
 }
