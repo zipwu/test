@@ -5,6 +5,8 @@ public class ThreadSoc {
 	    {
 	        System.out.println( "Hello World!" );
 	        System.err.println("Here is an error!");
+	        int i = 3;
+	        System.out.println(i+i);
 	    }
 
 }
